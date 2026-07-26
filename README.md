@@ -1,69 +1,60 @@
 
-# Kapish Landmark — Film Developing Website
+# ⚡ Kapish S — AI/ML Portfolio
 
-Kapish Landmark is a concept website designed for a small-batch film lab. It showcases the film development workflow, pricing, and a curated gallery of iconic landmarks.
+This portfolio represents a passionate AIML student focused on creating real-world solutions using:
 
+Artificial Intelligence
+Machine Learning
+Web Development
 
-
-
-## 🚀 Features
-Clean and minimal UI
-
-Film-style contact sheet layout
-
-Step-by-step process section
-
-Landmark gallery
-
-Pricing cards
-
-Testimonials section
-
-Fully responsive design
-
-## 🛠️ Tech Stack
-
-HTML
-
-CSS
-
-Google Fonts
+The website combines clean UI + dynamic animations to deliver a professional digital presence.
 
 
-## 📁 Project Structure
 
+## ✨ Key Highlights
+💎 Glassmorphism UI + Gradient Effects
 
- index.html
+⚡ Smooth animations & scroll reveal
 
- README.md
-## 🎨 Design
+🎯 Fully responsive design
 
-Minimal editorial layout
+🧠 AI/ML focused portfolio layout
 
-Neutral color palette
+📊 Interactive skills & stats
 
-Film-inspired UI elements
+🚀 Project showcase with filtering
 
-Typography-focused design
-## 📌 Sections
+📬 Contact section (ready to integrate backend)
 
-Hero
+## 🧩 Core Sections
+Section	              Description
 
-Process
+🏠 Hero	            Intro + dynamic typing animation\
 
-Landmarks
+👤 About	        Personal + technical overview
 
-Services
+🎓 Education	    Academic background
 
-Reviews
+💻 Skills	        Programming + soft skills
 
-Footer
-## 🔮 Future Improvements
+📜 Certifications	Verified achievements
 
-Backend integration
+🚀 Projects	        Featured works
 
-Payment system
+📊 Stats	        Achievements in numbers
 
-User authentication
+📬 Contact	        Get in touch
+## 🛠️ Built With
 
-Order tracking
+HTML5
+
+CSS3 (Advanced UI + Animations)
+
+JavaScript (Vanilla JS)## 📈 Future Enhancements
+🌙 Dark / Light mode
+
+🤖 AI chatbot integration
+
+📊 Live GitHub stats
+
+🌐 Deployment (Vercel / Netlify)
